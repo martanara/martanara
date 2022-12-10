@@ -23,5 +23,5 @@ Welcome to my Github. Take a look around!
 :computer: Coding <br>
 :desert_island: Traveling <br>
 :lotus_position_woman: Yoga <br>
-:japan: Anything and everything Japanese <br>
+🇯🇵 Anything and everything Japanese <br>
 :hamster: Animals (especially guinea pigs)
